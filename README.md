@@ -17,7 +17,6 @@ Report Highlights
 - Experiments and Results: Presents the experiments conducted and the corresponding findings.
 - Discussion: Analyzes the results and draws conclusions based on the findings.
 - Conclusion: Summarizes the key findings and implications of the study.
-- Acknowledgements: Includes acknowledgements to ChatGPT for assistance in structuring and refining the report.
 
 Key Findings
 ------------
@@ -27,7 +26,7 @@ Key Findings
 
 Usage
 -----
-This repository is for reference purposes only. Users are encouraged to read the report for detailed insights into the research conducted.
+This readme file is for reference purposes only. Users are encouraged to read the report for detailed insights into the research conducted.
 
 Authors
 -------
